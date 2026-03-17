@@ -8,6 +8,7 @@ PROJECT OVERVIEW
 To analyze Employee Performance Data perform data cleaning and transformations, and build interactive dashboards that deliver actionable insights for business stakeholders.
 
 FEEDBACK & PERFORMANCE SCORE
+
 Key KPIs
  Total employees 5k
  Performance score 74.78%
@@ -20,6 +21,7 @@ INSIGHTS
  HR department have higher performance score of 75.83 and Marketing department score low as 73.86
 
 PERFORMANCE & TRAINING
+
 INSIGHTS
  Average training Hours 14.88
  Average KPI score 77.38%
@@ -28,6 +30,7 @@ INSIGHTS
  HR department leads in KPI scores with average score of 77.66%
 
  TASK COMPLETION & WORK HOURS
+ 
  INSIGHTS 
  Average work hours 44.93
  Average task completion rate 84.98%
