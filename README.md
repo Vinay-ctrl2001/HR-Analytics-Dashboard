@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 
-Business Problem Statement  
+**Business Problem Statement**  
  A leading Business organization wants to better understand its employee perfornamce, HR needs to understand why some high-performing employees are not marked   as "Promotion Eligible" and ensure the promotion process is objective. HR department needs to know if the current training programs are improving employee   output.
 Management wants to know if employees are working excessive hours without a proportional increase in results. and Identifying work environments or leadership gaps where manager feedback doesn't align with peer ratings.
 
@@ -9,7 +9,7 @@ To analyze Employee Performance Data perform data cleaning and transformations, 
 
 
 
-💻FEEDBACK & PERFORMANCE SCORE
+**💻FEEDBACK & PERFORMANCE SCORE**
 
 ![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/FEEDBACK%20%26%20PERFORMANCE%20SCORE.png)
 
@@ -29,7 +29,7 @@ Key KPIs
  
 
 
-🧑‍🔧PERFORMANCE & TRAINING
+**🧑‍🔧PERFORMANCE & TRAINING**
 
 ![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/PERFORMANCE%20&%20TRAINING.png?raw=true)
 
@@ -46,7 +46,7 @@ Key KPIs
 
 
 
- ⌨️TASK COMPLETION & WORK HOURS
+ **⌨️TASK COMPLETION & WORK HOURS**
 
 ![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/TASK%20COMPLETION%20&%20WORK%20HOURS.png?raw=true)
  
@@ -60,7 +60,7 @@ Key KPIs
   
   Hr department lead in task completion rate followed by marketing department while sales department lagging behind.
 
-📊Recommendations
+**📊Recommendations**
 
   Minimum training hours should be set at 15 hours to have positive impact on performance
 
@@ -69,11 +69,11 @@ Key KPIs
   Only 13.9% workforce is falgged as eligible for promotion despite hight average performance of 74.78% of all department. audit the promotion critiria
  to ensure high performing employees should not be overlooked
 
-🏁 Conclusion
+**🏁 Conclusion**
 
  The project uncovers that employee performance is not just about "working" but about "training" By using these insights, the organization can optimize  training budgets, reduce turnover caused by Operational Fatigue, and create a more transparent promotions .
  
-⚙️Tools Used
+**⚙️Tools Used**
 
    Visualization : Power BI 
 
