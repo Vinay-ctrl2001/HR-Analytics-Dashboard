@@ -7,6 +7,8 @@ Management wants to know if employees are working excessive hours without a prop
 PROJECT OVERVIEW
 To analyze Employee Performance Data perform data cleaning and transformations, and build interactive dashboards that deliver actionable insights for business stakeholders.
 
+
+
 FEEDBACK & PERFORMANCE SCORE
 
 ![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/FEEDBACK%20%26%20PERFORMANCE%20SCORE.png)
@@ -26,6 +28,7 @@ Key KPIs
 
  
 
+
 PERFORMANCE & TRAINING
 
 ![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/PERFORMANCE%20&%20TRAINING.png?raw=true)
@@ -40,6 +43,8 @@ PERFORMANCE & TRAINING
   
   HR department leads in KPI scores with average score of 77.66%
   
+
+
 
  TASK COMPLETION & WORK HOURS
 
