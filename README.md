@@ -9,7 +9,7 @@ To analyze Employee Performance Data perform data cleaning and transformations, 
 
 
 
-FEEDBACK & PERFORMANCE SCORE
+💻FEEDBACK & PERFORMANCE SCORE
 
 ![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/FEEDBACK%20%26%20PERFORMANCE%20SCORE.png)
 
@@ -29,7 +29,7 @@ Key KPIs
  
 
 
-PERFORMANCE & TRAINING
+🧑‍🔧PERFORMANCE & TRAINING
 
 ![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/PERFORMANCE%20&%20TRAINING.png?raw=true)
 
@@ -46,7 +46,7 @@ PERFORMANCE & TRAINING
 
 
 
- TASK COMPLETION & WORK HOURS
+ ⌨️TASK COMPLETION & WORK HOURS
 
 ![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/TASK%20COMPLETION%20&%20WORK%20HOURS.png?raw=true)
  
@@ -73,3 +73,12 @@ PERFORMANCE & TRAINING
 
  The project uncovers that employee performance is not just about "working" but about "training" By using these insights, the organization can optimize  training budgets, reduce turnover caused by Operational Fatigue, and create a more transparent promotions .
  
+⚙️Tools Used
+
+    Visualization Tool: Power BI Desktop
+
+    Data Processing: Power Query 
+
+    Calculations: DAX for measures like Average Performance, Task Completion Rate, and KPI Scores.
+
+    Analysis Techniques: Data Binning, Grouping.
