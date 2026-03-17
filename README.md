@@ -24,7 +24,11 @@ Key KPIs
  
  HR department have higher performance score of 75.83 and Marketing department score low as 73.86
 
+ 
+
 PERFORMANCE & TRAINING
+
+![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/PERFORMANCE%20&%20TRAINING.png?raw=true)
 
 📌INSIGHTS
   Average training Hours 14.88
@@ -35,8 +39,11 @@ PERFORMANCE & TRAINING
   30 Hours of training have high perfotmance score of 86.13%
   
   HR department leads in KPI scores with average score of 77.66%
+  
 
  TASK COMPLETION & WORK HOURS
+
+![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/TASK%20COMPLETION%20&%20WORK%20HOURS.png?raw=true)
  
  📌INSIGHTS 
   Average work hours 44.93
