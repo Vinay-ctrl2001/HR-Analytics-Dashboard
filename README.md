@@ -9,7 +9,7 @@ To analyze Employee Performance Data perform data cleaning and transformations, 
 
 FEEDBACK & PERFORMANCE SCORE
 
-[alt text] (https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/FEEDBACK%20%26%20PERFORMANCE%20SCORE.png)
+![image alt](https://github.com/Vinay-ctrl2001/HR-Analytics-Dashboard/blob/main/images/FEEDBACK%20%26%20PERFORMANCE%20SCORE.png)
 
 Key KPIs
  Total employees 5k
