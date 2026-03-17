@@ -75,10 +75,10 @@ Key KPIs
  
 ⚙️Tools Used
 
-    Visualization Tool: Power BI Desktop
+   Visualization : Power BI 
 
-    Data Processing: Power Query 
+   Data Processing: Power Query
 
-    Calculations: DAX for measures like Average Performance, Task Completion Rate, and KPI Scores.
+   Calculations: DAX for measures
 
-    Analysis Techniques: Data Binning, Grouping.
+   
