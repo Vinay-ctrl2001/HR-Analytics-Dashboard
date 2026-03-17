@@ -4,7 +4,8 @@
  A leading Business organization wants to better understand its employee perfornamce, HR needs to understand why some high-performing employees are not marked   as "Promotion Eligible" and ensure the promotion process is objective. HR department needs to know if the current training programs are improving employee   output.
 Management wants to know if employees are working excessive hours without a proportional increase in results. and Identifying work environments or leadership gaps where manager feedback doesn't align with peer ratings.
 
-PROJECT OVERVIEW
+**PROJECT OVERVIEW**
+
 To analyze Employee Performance Data perform data cleaning and transformations, and build interactive dashboards that deliver actionable insights for business stakeholders.
 
 
